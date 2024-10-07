@@ -1,7 +1,7 @@
 CriaCartao(
     'Historia' ,
     'De que ano a que ano foi a Segunda Guerra Mundial?' ,
-    '1939-1945').
+    '1939-1945' ).
     
     CriaCartao (
     'História',
