@@ -14,5 +14,5 @@ body{
 footer{
     position: fixed;
     bottom: 0;
-    background-color: var(--destaque);
+    background-color: var(--fundo);
 }
