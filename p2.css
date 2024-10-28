@@ -37,3 +37,11 @@ footer{
     gap: 3rem;
     padding: 4rem;
 }
+
+.cartao{
+    background-color: var(--fundo);
+}
+
+.cartao:houver{
+    transform: scale(1.03);
+}
