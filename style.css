@@ -12,6 +12,17 @@ body{
     margin: 0;
 }
 
+header{
+    background-color: var(--preto);
+    diplay: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+header a{
+    color: var(--branco);
+}
+
 footer{
     position: fixed;
     bottom: 0;
