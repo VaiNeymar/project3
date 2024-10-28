@@ -39,9 +39,13 @@ footer{
 }
 
 .cartao{
-    background-color: var(--fundo);
+    background-color: var(--destaque);
+    padding: 40px;
+    color: var(--preto);
+    box-shadow: 6px 5px 18px var(--preto);
 }
 
 .cartao:houver{
     transform: scale(1.03);
 }
+
