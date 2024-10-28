@@ -21,7 +21,7 @@ function CriaCartao (categoria, pergunta, resposta){
         cartao.classList.toggle('active', respostaEstaVisivel);
     }
 
-cartao.addEventListener('click', viraCartao);
+cartao.addEventListener('click', viraCartao)
 
       containeres.appendChild(cartao);
 }
