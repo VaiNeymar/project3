@@ -31,3 +31,9 @@ footer{
     width: 100%;
     text-align: center;
 }
+
+#containeres{
+    display: grid;
+    gap: 3rem;
+    padding: 4rem;
+}
